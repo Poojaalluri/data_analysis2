@@ -18,14 +18,14 @@ This project analyzes a hotel booking dataset to uncover patterns and trends in 
 
 ### **Technologies Used**  
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Libraries:** Pandas, Matplotlib, Seaborn  
 - **Tools:** Jupyter Notebook  
 
 ---
 
 ### **Dataset**  
 - **Source:** [Kaggle]  
-- **Size:** [119390 rows, 32 columns]  
+- **Size:** [119390 rows, 36 columns]  
 - **Key Columns:**  
   `hotel`, `is_canceled`, `reservation_status_date`, `adr`, `country`
 
